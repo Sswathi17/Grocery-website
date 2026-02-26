@@ -30,7 +30,7 @@ import { useAppContext } from "./context/AppContext";
 // =========================
 // ✅ Add API base URL here
 // Replace this after Render deployment
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "https://grocery-website-1ja9.onrender.com";
 // Example after deployment: "https://grocery-website-1ja9.onrender.com"
 // =========================
 
