@@ -31,7 +31,7 @@ import { useAppContext } from "./context/AppContext";
 // ✅ Add API base URL here
 // Replace this after Render deployment
 const API_BASE_URL = "http://localhost:4000/api";
-// Example after deployment: "https://greencart-backend.onrender.com/api"
+// Example after deployment: "https://grocery-website-1ja9.onrender.com"
 // =========================
 
 const App = () => {
